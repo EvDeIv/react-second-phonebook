@@ -2,12 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 
-import FeedBack from "./components/FeedBack/FeedBack";
+import App from "./components/App";
 
 ReactDOM.render(
   <React.StrictMode>
     <>
-      <FeedBack></FeedBack>
+      <App></App>
     </>
   </React.StrictMode>,
   document.getElementById("root")
