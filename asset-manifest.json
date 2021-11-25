@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-second-phonebook/static/css/main.0d32ee82.chunk.css",
+    "main.js": "/react-second-phonebook/static/js/main.fcad4bba.chunk.js",
+    "main.js.map": "/react-second-phonebook/static/js/main.fcad4bba.chunk.js.map",
+    "runtime-main.js": "/react-second-phonebook/static/js/runtime-main.a90910c9.js",
+    "runtime-main.js.map": "/react-second-phonebook/static/js/runtime-main.a90910c9.js.map",
+    "static/js/2.0762e20f.chunk.js": "/react-second-phonebook/static/js/2.0762e20f.chunk.js",
+    "static/js/2.0762e20f.chunk.js.map": "/react-second-phonebook/static/js/2.0762e20f.chunk.js.map",
+    "index.html": "/react-second-phonebook/index.html",
+    "static/css/main.0d32ee82.chunk.css.map": "/react-second-phonebook/static/css/main.0d32ee82.chunk.css.map",
+    "static/js/2.0762e20f.chunk.js.LICENSE.txt": "/react-second-phonebook/static/js/2.0762e20f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90910c9.js",
+    "static/js/2.0762e20f.chunk.js",
+    "static/css/main.0d32ee82.chunk.css",
+    "static/js/main.fcad4bba.chunk.js"
+  ]
+}
